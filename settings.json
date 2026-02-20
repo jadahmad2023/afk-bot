@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "ramadanKareemm.aternos.me:39132", 
+    "ip": "ramadanKareemm.aternos.me", 
     "port": 39132,   
     "version": "1.12.1"   
   },
