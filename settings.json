@@ -30,9 +30,9 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
-      "repeat-delay": 1000000000000000000000000000000000000000000000000000000000000000000000000,
+      "repeat-delay": 60,
 
       "messages": [
         "Ramadan Kareem",
